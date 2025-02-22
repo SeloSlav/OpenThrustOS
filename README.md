@@ -16,3 +16,6 @@ Clone the repository and follow the build instructions for your specific hardwar
 ```sh
 git clone https://github.com/SeloSlav/OpenThrustOS.git
 cd OpenThrustOS
+
+**## License**
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
